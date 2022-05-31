@@ -1,7 +1,7 @@
 {
-  "name": "trillo",
+  "name": "nexter",
   "version": "1.0.0",
-  "description": "trillo app",
+  "description": "nexter landing page",
   "main": "index.html",
   "scripts": {
     "watch:sass": "node-sass sass/main.scss css/style.css -w",
